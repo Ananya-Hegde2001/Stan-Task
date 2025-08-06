@@ -1,0 +1,9 @@
+@echo off
+echo Starting STAN Chatbot...
+echo.
+echo Checking Node.js version...
+node --version
+echo.
+echo Starting simple server...
+node simple-server.js
+pause
